@@ -1,4 +1,4 @@
-# Acuerdo de Trabajo del Equipo (Team Agreement)
+ # Acuerdo de Trabajo del Equipo (Team Agreement)
 
 Este documento establece las reglas de convivencia, comunicación y estándares de calidad de nuestra célula ágil. Al participar en este repositorio, todos los miembros del equipo aceptamos y nos comprometemos a cumplir estos acuerdos.
 
@@ -7,11 +7,11 @@ Este documento establece las reglas de convivencia, comunicación y estándares 
 | :--- | :--- | :--- |
 | [Nombre del Aprendiz 1] | Líder (Arquitecto) | `@usuario1` |
 | [Nombre del Aprendiz 2] | Desarrollador | `@usuario2` |
-| [Nombre del Aprendiz 3] | Desarrollador | `@usuario3` |
+| [Sharon Marney] | Desarrollador | `@sharonmarney6` |
 
 ## 2. Canales de Comunicación
 Para mantener el orden y separar lo profesional de lo personal, usaremos los siguientes canales:
-* **Comunicación Oficial y Archivos:** [Ej: correo corporativo / Microsoft Teams]
+* **Comunicación Oficial y Archivos: sharon.nino@soy.sena.edu.co
 * **Urgencias o bloqueos rápidos:** [Ej: Grupo de WhatsApp]
 * **Gestión de Tareas y Código:** Estrictamente a través de los *Issues* y *Pull Requests* de GitHub. (No se revisa código por WhatsApp).
 
